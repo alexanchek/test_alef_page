@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test_alef_page/static/css/main.ad7ac32e.chunk.css",
+    "main.js": "/test_alef_page/static/js/main.1fee5017.chunk.js",
+    "main.js.map": "/test_alef_page/static/js/main.1fee5017.chunk.js.map",
+    "runtime-main.js": "/test_alef_page/static/js/runtime-main.9bca3a24.js",
+    "runtime-main.js.map": "/test_alef_page/static/js/runtime-main.9bca3a24.js.map",
+    "static/js/2.e0e2f967.chunk.js": "/test_alef_page/static/js/2.e0e2f967.chunk.js",
+    "static/js/2.e0e2f967.chunk.js.map": "/test_alef_page/static/js/2.e0e2f967.chunk.js.map",
+    "index.html": "/test_alef_page/index.html",
+    "static/css/main.ad7ac32e.chunk.css.map": "/test_alef_page/static/css/main.ad7ac32e.chunk.css.map",
+    "static/js/2.e0e2f967.chunk.js.LICENSE.txt": "/test_alef_page/static/js/2.e0e2f967.chunk.js.LICENSE.txt",
+    "static/media/logo.49a7bc14.svg": "/test_alef_page/static/media/logo.49a7bc14.svg",
+    "static/media/fonts.css": "/test_alef_page/static/media/montserrat-v18-latin_cyrillic-regular.c25ae5d1.ttf",
+    "static/media/plus.b56791cc.svg": "/test_alef_page/static/media/plus.b56791cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bca3a24.js",
+    "static/js/2.e0e2f967.chunk.js",
+    "static/css/main.ad7ac32e.chunk.css",
+    "static/js/main.1fee5017.chunk.js"
+  ]
+}
