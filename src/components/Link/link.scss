@@ -1,0 +1,18 @@
+.link__container {
+    margin-right: 24px;
+
+    &:last-child {
+        margin-right: 0px;
+    }
+}
+
+.link {
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+    text-decoration: none;
+
+    &:hover {
+        opacity: 0.75;
+    }
+}

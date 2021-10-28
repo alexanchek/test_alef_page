@@ -1,0 +1,28 @@
+.preview-personal {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    color: #111111;
+}
+
+.preview-children__box {
+    margin-bottom: 20px;
+}
+
+.preview-children__container {
+    display: inline-block;
+    min-width: 100px;
+    height: 44px;
+    background-color: #F1F1F1;
+
+}
+
+.preview-children__element {
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}

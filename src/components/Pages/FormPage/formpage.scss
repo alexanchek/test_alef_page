@@ -1,0 +1,71 @@
+.content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 136px;
+}
+
+.content__container {
+    width: 616px;
+}
+
+.personal-info__container {
+    margin-bottom: 33px;
+}
+
+.children-info__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.children-info__header {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.children {
+    width: 100%;
+    padding-top: 11px;
+}
+
+.children__container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form__children {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form-inner__children {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.input__box_child {
+    display: flex;
+    flex-wrap: wrap;
+    width: 228px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    border-radius: 4px;
+    padding: 8px 16px;
+}
+
+.remove {
+    cursor: pointer;
+}
